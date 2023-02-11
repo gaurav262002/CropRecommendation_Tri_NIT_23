@@ -1,0 +1,315 @@
+,state,commodity,modal_price,rainfall
+11,Andaman and Nicobar,coconut,5600,175.686646
+23,Assam,rice,2400,236.181114
+24,Assam,rice,2800,236.181114
+43,Assam,jute,2800,174.792798
+46,Assam,rice,4500,236.181114
+47,Assam,rice,2500,236.181114
+54,Assam,rice,3200,236.181114
+75,Assam,jute,3900,174.792798
+76,Assam,maize,1800,84.766988
+78,Assam,rice,2400,236.181114
+79,Assam,rice,2800,236.181114
+125,Gujarat,cotton,4550,80.398043
+126,Gujarat,maize,1900,84.766988
+130,Gujarat,maize,1850,84.766988
+163,Gujarat,cotton,5400,80.398043
+164,Gujarat,cotton,5400,80.398043
+165,Gujarat,cotton,5400,80.398043
+166,Gujarat,cotton,5400,80.398043
+201,Haryana,banana,3000,104.62698
+207,Haryana,grapes,4000,69.611829
+216,Haryana,apple,5000,112.654779
+220,Haryana,grapes,4000,69.611829
+223,Haryana,orange,2000,110.474969
+225,Haryana,pomegranate,4500,107.528442
+229,Haryana,banana,3000,104.62698
+235,Haryana,grapes,3500,69.611829
+237,Haryana,orange,2200,110.474969
+238,Haryana,papaya,1650,142.627839
+240,Haryana,pomegranate,4250,107.528442
+247,Haryana,apple,8000,112.654779
+248,Haryana,banana,2000,104.62698
+255,Haryana,grapes,3000,69.611829
+257,Haryana,orange,3000,110.474969
+258,Haryana,pomegranate,5000,107.528442
+266,Himachal Pradesh,apple,7500,112.654779
+276,Himachal Pradesh,pomegranate,7500,107.528442
+281,Himachal Pradesh,apple,5000,112.654779
+282,Himachal Pradesh,banana,2400,104.62698
+293,Himachal Pradesh,grapes,4250,69.611829
+301,Himachal Pradesh,orange,3250,110.474969
+302,Himachal Pradesh,papaya,2250,142.627839
+305,Himachal Pradesh,pomegranate,4250,107.528442
+310,Himachal Pradesh,apple,8000,112.654779
+322,Himachal Pradesh,grapes,7000,69.611829
+330,Himachal Pradesh,orange,4500,110.474969
+331,Himachal Pradesh,papaya,2500,142.627839
+334,Himachal Pradesh,pomegranate,7500,107.528442
+341,Himachal Pradesh,banana,2370,104.62698
+354,Himachal Pradesh,grapes,7500,69.611829
+360,Himachal Pradesh,papaya,2900,142.627839
+385,Karnataka,papaya,1300,142.627839
+408,Kerala,apple,11000,112.654779
+410,Kerala,banana,4300,104.62698
+411,Kerala,banana,2900,104.62698
+412,Kerala,banana,2100,104.62698
+446,Kerala,coconut,3300,175.686646
+452,Kerala,banana,2250,104.62698
+453,Kerala,banana,3050,104.62698
+493,Kerala,banana,6100,104.62698
+494,Kerala,banana,2700,104.62698
+495,Kerala,banana,5900,104.62698
+496,Kerala,banana,4800,104.62698
+497,Kerala,banana,2400,104.62698
+510,Kerala,banana,4200,104.62698
+511,Kerala,banana,2000,104.62698
+512,Kerala,banana,4500,104.62698
+513,Kerala,banana,4500,104.62698
+530,Kerala,banana,3800,104.62698
+539,Kerala,coconut,3600,175.686646
+555,Kerala,banana,4000,104.62698
+556,Kerala,banana,1800,104.62698
+557,Kerala,banana,3000,104.62698
+579,Kerala,orange,5900,110.474969
+610,Kerala,banana,6000,104.62698
+620,Kerala,coconut,4000,175.686646
+629,Kerala,mango,3500,94.704515
+655,Kerala,banana,3900,104.62698
+656,Kerala,banana,3600,104.62698
+657,Kerala,banana,3200,104.62698
+658,Kerala,banana,1700,104.62698
+659,Kerala,banana,1400,104.62698
+660,Kerala,banana,1100,104.62698
+661,Kerala,banana,3000,104.62698
+662,Kerala,banana,2700,104.62698
+663,Kerala,banana,3400,104.62698
+664,Kerala,banana,3900,104.62698
+665,Kerala,banana,3600,104.62698
+666,Kerala,banana,1800,104.62698
+667,Kerala,banana,1500,104.62698
+668,Kerala,banana,1200,104.62698
+670,Kerala,banana,3800,104.62698
+671,Kerala,banana,1400,104.62698
+672,Kerala,banana,3500,104.62698
+689,Madhya Pradesh,apple,2200,112.654779
+690,Madhya Pradesh,banana,1200,104.62698
+693,Madhya Pradesh,apple,2000,112.654779
+694,Madhya Pradesh,banana,800,104.62698
+695,Madhya Pradesh,orange,900,110.474969
+707,Madhya Pradesh,cotton,5400,80.398043
+722,Madhya Pradesh,orange,1100,110.474969
+726,Maharashtra,pomegranate,4000,107.528442
+727,Maharashtra,cotton,5300,80.398043
+728,Maharashtra,banana,910,104.62698
+730,Maharashtra,cotton,5200,80.398043
+731,Maharashtra,maize,1350,84.766988
+733,Maharashtra,apple,10000,112.654779
+740,Maharashtra,mango,4500,94.704515
+749,Maharashtra,cotton,5325,80.398043
+756,Maharashtra,apple,7800,112.654779
+774,Maharashtra,grapes,3000,69.611829
+784,Maharashtra,orange,2900,110.474969
+808,Maharashtra,grapes,3000,69.611829
+845,Maharashtra,apple,8000,112.654779
+846,Maharashtra,banana,1000,104.62698
+862,Maharashtra,grapes,2250,69.611829
+868,Maharashtra,pomegranate,2500,107.528442
+886,Maharashtra,banana,475,104.62698
+887,Manipur,banana,3500,104.62698
+896,Manipur,rice,3700,236.181114
+897,Manipur,banana,3000,104.62698
+905,Manipur,rice,3500,236.181114
+906,Manipur,banana,3500,104.62698
+915,Manipur,rice,4100,236.181114
+916,Manipur,banana,3500,104.62698
+926,Manipur,rice,3800,236.181114
+927,Manipur,banana,3500,104.62698
+937,Manipur,rice,3900,236.181114
+940,Meghalaya,banana,4000,104.62698
+943,Meghalaya,orange,4000,110.474969
+975,Odisha,banana,3000,104.62698
+980,Odisha,banana,3000,104.62698
+981,Odisha,coconut,1500,175.686646
+986,Odisha,maize,1350,84.766988
+998,Odisha,rice,2200,236.181114
+1009,Odisha,maize,1400,84.766988
+1023,Odisha,orange,8000,110.474969
+1024,Odisha,orange,8000,110.474969
+1025,Odisha,orange,8000,110.474969
+1028,Odisha,rice,3000,236.181114
+1075,Punjab,grapes,5000,69.611829
+1076,Punjab,grapes,3000,69.611829
+1082,Punjab,papaya,1500,142.627839
+1138,Punjab,banana,1500,104.62698
+1144,Punjab,cotton,5390,80.398043
+1146,Punjab,grapes,7000,69.611829
+1147,Punjab,grapes,4500,69.611829
+1154,Punjab,apple,5500,112.654779
+1155,Punjab,banana,1800,104.62698
+1161,Punjab,cotton,5500,80.398043
+1165,Punjab,grapes,8500,69.611829
+1166,Punjab,grapes,4500,69.611829
+1174,Punjab,pomegranate,6500,107.528442
+1203,Punjab,apple,5500,112.654779
+1204,Punjab,banana,900,104.62698
+1218,Punjab,papaya,1200,142.627839
+1230,Rajasthan,banana,1900,104.62698
+1239,Rajasthan,grapes,3400,69.611829
+1243,Rajasthan,papaya,1400,142.627839
+1244,Rajasthan,pomegranate,1500,107.528442
+1260,Rajasthan,maize,1875,84.766988
+1265,Tamil Nadu,coconut,2900,175.686646
+1268,Tamil Nadu,coconut,2500,175.686646
+1269,Tamil Nadu,coconut,3100,175.686646
+1271,Tamil Nadu,maize,1925,84.766988
+1273,Tamil Nadu,coconut,3150,175.686646
+1274,Tamil Nadu,coconut,2140,175.686646
+1276,Tamil Nadu,maize,1850,84.766988
+1277,Tamil Nadu,coconut,2720,175.686646
+1278,Tamil Nadu,coconut,2400,175.686646
+1279,Tamil Nadu,coconut,2270,175.686646
+1280,Tamil Nadu,coconut,2800,175.686646
+1282,Tamil Nadu,coconut,2800,175.686646
+1283,Tamil Nadu,coconut,2750,175.686646
+1285,Tamil Nadu,maize,1850,84.766988
+1295,Tamil Nadu,cotton,5600,80.398043
+1299,Tamil Nadu,coconut,1600,175.686646
+1300,Tamil Nadu,maize,1600,84.766988
+1301,Tamil Nadu,coconut,1650,175.686646
+1302,Tamil Nadu,coconut,3000,175.686646
+1303,Tamil Nadu,coconut,2870,175.686646
+1304,Tamil Nadu,coconut,2935,175.686646
+1308,Tamil Nadu,coconut,2530,175.686646
+1309,Tamil Nadu,coconut,3225,175.686646
+1323,Tamil Nadu,cotton,5700,80.398043
+1324,Tamil Nadu,coconut,1750,175.686646
+1328,Tamil Nadu,cotton,4250,80.398043
+1329,Tamil Nadu,cotton,4000,80.398043
+1340,Tamil Nadu,coconut,2350,175.686646
+1344,Tamil Nadu,cotton,5650,80.398043
+1345,Tamil Nadu,coconut,2210,175.686646
+1346,Tamil Nadu,cotton,4800,80.398043
+1347,Tamil Nadu,cotton,5200,80.398043
+1348,Tamil Nadu,coconut,1280,175.686646
+1350,Tamil Nadu,maize,1840,84.766988
+1351,Tamil Nadu,cotton,5625,80.398043
+1352,Tamil Nadu,coconut,2310,175.686646
+1353,Tamil Nadu,coconut,950,175.686646
+1374,Tamil Nadu,maize,2210,84.766988
+1385,Tamil Nadu,maize,1900,84.766988
+1388,Tamil Nadu,cotton,4595,80.398043
+1402,Tamil Nadu,maize,1849,84.766988
+1414,Tamil Nadu,maize,2029,84.766988
+1426,Tamil Nadu,cotton,4896,80.398043
+1450,Telangana,cotton,6000,80.398043
+1452,Telangana,cotton,5200,80.398043
+1464,Tripura,rice,2600,236.181114
+1482,Uttar Pradesh,banana,1550,104.62698
+1498,Uttar Pradesh,rice,2540,236.181114
+1502,Uttar Pradesh,apple,5850,112.654779
+1504,Uttar Pradesh,banana,950,104.62698
+1520,Uttar Pradesh,papaya,1050,142.627839
+1524,Uttar Pradesh,rice,2300,236.181114
+1527,Uttar Pradesh,apple,5550,112.654779
+1529,Uttar Pradesh,banana,1530,104.62698
+1544,Uttar Pradesh,rice,2540,236.181114
+1546,Uttar Pradesh,apple,5200,112.654779
+1548,Uttar Pradesh,banana,1100,104.62698
+1558,Uttar Pradesh,papaya,1040,142.627839
+1565,Uttar Pradesh,apple,5550,112.654779
+1567,Uttar Pradesh,banana,1540,104.62698
+1581,Uttar Pradesh,papaya,2150,142.627839
+1585,Uttar Pradesh,rice,2540,236.181114
+1609,Uttar Pradesh,maize,1940,84.766988
+1625,Uttar Pradesh,apple,4900,112.654779
+1638,Uttar Pradesh,papaya,1100,142.627839
+1639,Uttar Pradesh,pomegranate,4300,107.528442
+1649,Uttar Pradesh,apple,5350,112.654779
+1650,Uttar Pradesh,banana,900,104.62698
+1654,Uttar Pradesh,grapes,4500,69.611829
+1661,Uttar Pradesh,rice,2150,236.181114
+1664,Uttar Pradesh,banana,1750,104.62698
+1668,Uttar Pradesh,rice,2100,236.181114
+1669,Uttar Pradesh,apple,3500,112.654779
+1672,Uttar Pradesh,pomegranate,3800,107.528442
+1675,Uttar Pradesh,banana,1190,104.62698
+1681,Uttar Pradesh,maize,1490,84.766988
+1707,Uttar Pradesh,rice,1775,236.181114
+1736,Uttar Pradesh,maize,1650,84.766988
+1749,Uttar Pradesh,apple,5850,112.654779
+1751,Uttar Pradesh,banana,1260,104.62698
+1764,Uttar Pradesh,papaya,1300,142.627839
+1767,Uttar Pradesh,rice,2670,236.181114
+1778,Uttar Pradesh,apple,6500,112.654779
+1780,Uttar Pradesh,banana,2200,104.62698
+1788,Uttar Pradesh,maize,1800,84.766988
+1795,Uttar Pradesh,rice,2500,236.181114
+1798,Uttar Pradesh,apple,5800,112.654779
+1800,Uttar Pradesh,banana,2800,104.62698
+1811,Uttar Pradesh,maize,1500,84.766988
+1830,Uttar Pradesh,apple,6410,112.654779
+1832,Uttar Pradesh,banana,1785,104.62698
+1842,Uttar Pradesh,grapes,4240,69.611829
+1848,Uttar Pradesh,orange,1750,110.474969
+1849,Uttar Pradesh,pomegranate,4140,107.528442
+1852,Uttar Pradesh,rice,2250,236.181114
+1861,Uttar Pradesh,rice,2000,236.181114
+1863,Uttar Pradesh,apple,6250,112.654779
+1880,Uttar Pradesh,rice,2320,236.181114
+1883,Uttar Pradesh,apple,4130,112.654779
+1892,Uttar Pradesh,apple,5820,112.654779
+1903,Uttar Pradesh,maize,1930,84.766988
+1908,Uttar Pradesh,papaya,1170,142.627839
+1911,Uttar Pradesh,rice,2700,236.181114
+1914,Uttar Pradesh,apple,2600,112.654779
+1923,Uttar Pradesh,rice,3900,236.181114
+1935,Uttar Pradesh,papaya,900,142.627839
+1946,Uttar Pradesh,apple,3950,112.654779
+1947,Uttar Pradesh,banana,1200,104.62698
+1968,Uttar Pradesh,apple,6475,112.654779
+1969,Uttar Pradesh,banana,1165,104.62698
+1980,Uttar Pradesh,papaya,1745,142.627839
+1996,Uttar Pradesh,apple,4900,112.654779
+1997,Uttar Pradesh,banana,1300,104.62698
+2008,Uttar Pradesh,papaya,1300,142.627839
+2024,Uttar Pradesh,papaya,800,142.627839
+2052,Uttar Pradesh,rice,2240,236.181114
+2055,Uttrakhand,apple,3050,112.654779
+2056,Uttrakhand,banana,750,104.62698
+2061,Uttrakhand,grapes,1800,69.611829
+2066,Uttrakhand,orange,1800,110.474969
+2067,Uttrakhand,papaya,700,142.627839
+2069,Uttrakhand,pomegranate,3500,107.528442
+2079,West Bengal,rice,2650,236.181114
+2080,West Bengal,rice,2850,236.181114
+2087,West Bengal,rice,2650,236.181114
+2104,West Bengal,rice,3000,236.181114
+2115,West Bengal,rice,2300,236.181114
+2122,West Bengal,rice,2300,236.181114
+2127,West Bengal,jute,3900,174.792798
+2132,West Bengal,rice,3000,236.181114
+2133,West Bengal,rice,2250,236.181114
+2137,West Bengal,jute,3900,174.792798
+2143,West Bengal,rice,2300,236.181114
+2149,West Bengal,rice,2850,236.181114
+2159,West Bengal,jute,3800,174.792798
+2164,West Bengal,rice,3200,236.181114
+2165,West Bengal,rice,2700,236.181114
+2167,West Bengal,jute,4100,174.792798
+2170,West Bengal,rice,2550,236.181114
+2171,West Bengal,rice,2400,236.181114
+2173,West Bengal,jute,4300,174.792798
+2175,West Bengal,rice,2700,236.181114
+2176,West Bengal,jute,3800,174.792798
+2180,West Bengal,rice,2900,236.181114
+2185,West Bengal,jute,4300,174.792798
+2190,West Bengal,rice,3800,236.181114
+2206,West Bengal,rice,2640,236.181114
+2218,West Bengal,rice,2600,236.181114
+2228,West Bengal,rice,2800,236.181114
+2229,West Bengal,rice,4400,236.181114
+2232,West Bengal,jute,4600,174.792798
+2234,West Bengal,rice,3600,236.181114
+2235,West Bengal,jute,4500,174.792798
+2236,West Bengal,rice,3500,236.181114
